@@ -6,9 +6,6 @@
         <group>
             <name>Templates</name>
         </group>
-        <group>
-            <name>Todos</name>
-        </group>
     </groups>
     <templates>
         <template>
